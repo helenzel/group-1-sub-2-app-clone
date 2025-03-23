@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "group-1-sub-2-app-clone",
+		"path": "."
+	},
+	{
+		"name": "images",
+		"path": "../responsive-code-jquery-for-footer/responsive-code-jquery-for-footer/images"
+	}
+],
+  "settings": {}
+}
